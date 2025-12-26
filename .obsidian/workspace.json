@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "String切片.md",
+                "file": "工具/String切片.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CG垃圾回收.md",
+                "file": "Unity/CG垃圾回收.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,16 +41,282 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MonoBehaviour.md",
+                "file": "Unity/MonoBehaviour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "MonoBehaviour"
             }
+          },
+          {
+            "id": "ce1ee79dac89d26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/Unity语法糖.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unity语法糖"
+            }
+          },
+          {
+            "id": "0e721f52bce9d7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Trigger2D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trigger2D"
+            }
+          },
+          {
+            "id": "280c16750951fde9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/生命周期函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "生命周期函数"
+            }
+          },
+          {
+            "id": "4523e0abb5df88ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/UI物体互动的检测流程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UI物体互动的检测流程"
+            }
+          },
+          {
+            "id": "b575ebc0c877e344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/Canvas血条.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canvas血条"
+            }
+          },
+          {
+            "id": "d7f44e207bcea1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/世界_屏幕_UI_GUI坐标.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "世界_屏幕_UI_GUI坐标"
+            }
+          },
+          {
+            "id": "939d0b8d8e25ca9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/PointerEventData.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PointerEventData"
+            }
+          },
+          {
+            "id": "7d03b24bb1dc1460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/RigidBody2D.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RigidBody2D"
+            }
+          },
+          {
+            "id": "df09432e6a4401ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/CanvaGroup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CanvaGroup"
+            }
+          },
+          {
+            "id": "eeb7e37801a36871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/VirtualCamera尺寸.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VirtualCamera尺寸"
+            }
+          },
+          {
+            "id": "117dd128a4f71b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/委托_事件.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "委托_事件"
+            }
+          },
+          {
+            "id": "ced01e131c089b36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/InputSystem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "InputSystem"
+            }
+          },
+          {
+            "id": "282de6773da6f578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/点击Click 拖拽Drag Point.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "点击Click 拖拽Drag Point"
+            }
+          },
+          {
+            "id": "4337a39a5b3832a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/Canva中的各形式坐标.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Canva中的各形式坐标"
+            }
+          },
+          {
+            "id": "fa09185c2ee7b6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/Recttransform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Recttransform"
+            }
+          },
+          {
+            "id": "77b6c958ed5ab921",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/有限状态机FSM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "有限状态机FSM"
+            }
+          },
+          {
+            "id": "614f1694389421a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "算法/行为树BehaviourTree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "行为树BehaviourTree"
+            }
+          },
+          {
+            "id": "df5bc3f656ce24c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/滚动视图Scroll View.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "滚动视图Scroll View"
+            }
+          },
+          {
+            "id": "31afe4513ea2ba39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity/UnityWebRequest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UnityWebRequest"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -212,46 +478,51 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c70db68ff3916015",
+  "active": "31afe4513ea2ba39",
   "lastOpenFiles": [
-    "附件/Pasted image 20251226160520.png",
-    "附件/Pasted image 20251226160518.png",
-    "CG垃圾回收.md",
-    "MonoBehaviour.md",
-    "String切片.md",
-    "附件/Pasted image 20251226160433.png",
-    "附件/Pasted image 20251226160418.png",
-    "附件/Pasted image 20251226160416.png",
-    "附件/Pasted image 20251226160413.png",
-    "附件/Pasted image 20251226160409.png",
-    "附件/Pasted image 20251226160407.png",
-    "附件/Pasted image 20251226160403.png",
-    "附件/Pasted image 20251226160359.png",
-    "附件/Pasted image 20251226160356.png",
-    "GMcmd.md",
-    "生命周期函数.md",
-    "可扩展Collider.md",
-    "对象池(Pool).md",
-    "协程.md",
-    "线程.md",
-    "模板/模板.md",
-    "Mathf类.md",
-    "移动方法.md",
-    "Serial序列化.md",
-    "LayerMask.md",
-    "Collider2D.md",
-    "Inspector检查器.md",
-    "Trigger2D.md",
-    "未命名",
-    "RigidBody2D.md",
-    "有限状态机.md",
-    "组件Component获取.md",
-    "游戏物体GameObject获取.md",
-    "摄像机渲染模式优劣.md",
-    "A星寻路算法.md",
+    "附件/2bacf668-7293-424c-9b7f-d577e8362ccc.png",
+    "附件/Pasted image 20251226170129.png",
+    "Unity/滚动视图Scroll View.md",
+    "Unity/UnityWebRequest.md",
+    "附件/Pasted image 20251226170032.png",
+    "附件/Pasted image 20251226170029.png",
+    "附件/Pasted image 20251226170004.png",
+    "附件/Pasted image 20251226165952.png",
+    "附件/Pasted image 20251226165935.png",
+    "附件/Pasted image 20251226165857.png",
+    "算法/行为树BehaviourTree.md",
+    "附件/Pasted image 20251226165729.png",
+    "附件/Pasted image 20251226165727.png",
+    "附件/Pasted image 20251226165725.png",
+    "算法/有限状态机FSM.md",
+    "工具/链锁绳索弹簧.md",
+    "工具/Recttransform.md",
+    "工具/Canva中的各形式坐标.md",
+    "工具/点击Click 拖拽Drag Point.md",
+    "Unity/协程.md",
+    "Unity/委托_事件.md",
+    "Unity/世界_屏幕_UI_GUI坐标.md",
+    "Unity/生命周期函数.md",
+    "Unity/摄像机渲染模式优劣.md",
+    "Unity/可扩展Collider.md",
+    "C#/Serial序列化.md",
+    "C#/Mathf类.md",
+    "C#/线程.md",
+    "工具/A星寻路算法.md",
+    "工具/Cinemachine.md",
+    "工具/GMcmd.md",
+    "工具/InputSystem.md",
+    "工具/String切片.md",
+    "工具/Unity语法糖.md",
+    "Unity/Trigger2D.md",
+    "Unity/Ray射线.md",
+    "Unity",
+    "C#",
+    "设计模式",
+    "算法",
+    "工具",
     "模板",
     "附件",
-    "未命名 1",
-    "欢迎.md"
+    "未命名 1"
   ]
 }
