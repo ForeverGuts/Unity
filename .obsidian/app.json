@@ -2,5 +2,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "附件",
   "newFileLocation": "current",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

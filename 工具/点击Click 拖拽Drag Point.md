@@ -7,6 +7,8 @@ aliases:
 time: 2025-12-26
 ---
 前置：# [[世界_屏幕_UI_GUI坐标]]
+[[UI物体互动的检测流程]]
+[[Click_Drag  逻辑解耦]]
 1.内置OnMouse衍生方法 (针对2D贴图)  
 OnMouseDrag()
 
