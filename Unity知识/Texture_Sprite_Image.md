@@ -32,7 +32,7 @@ time: 2025-12-28
 - **核心用途**：专用于2D游戏和UI系统。它是 `Image` 组件可以直接使用的格式。
     
 - **关键属性**：`pivot`（轴心点，旋转和缩放的中心）、`border`（九宫格拉伸边框）、关联的纹理矩形区域。
-# **3. Image（UI） - 用于在UI画布上显示Sprite的组件**
+# **3. ==Image==（UI） - 用于在UI画布上显示Sprite的组件**
 
 - **本质**：它是一个 `MonoBehaviour` 组件，继承自 `MaskableGraphic`，是UGUI系统的一部分。
     
@@ -41,3 +41,4 @@ time: 2025-12-28
 - **核心用途**：在屏幕上显示一个 `Sprite`，并控制其颜色、填充、材质等渲染属性。
     
 - **关键属性**：`sprite`（源精灵）、`color`（叠加颜色）、`Image Type`（Simple、Sliced九宫格、Filled填充等）。
+  ![](assets/Texture_Sprite_Image/file-20251228232658661.png)
