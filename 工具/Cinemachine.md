@@ -1,7 +1,8 @@
 ---
 tags:
-  - Unity
-  - Cinemachine
+  - Camera
+  - 渲染
+  - Unity插件
 aliases:
 time: 2025-12-25
 ---

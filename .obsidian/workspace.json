@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/工厂策略模式.md",
+                "file": "Unity知识/Unity语法糖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工厂策略模式"
+              "title": "Unity语法糖"
+            }
+          },
+          {
+            "id": "9ea5913124d67a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unity知识/Texture_Sprite_Image.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Texture_Sprite_Image"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +210,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3761f13434d97af9",
+  "active": "9ea5913124d67a92",
   "lastOpenFiles": [
-    "模板/模板.md",
+    "Unity知识/assets/Texture_Sprite_Image/file-20251228232113283.png",
+    "Unity知识/assets/Texture_Sprite_Image",
+    "Unity知识/assets",
+    "Unity知识/Unity语法糖.md",
+    "Unity知识/Texture_Sprite_Image.md",
+    "工具/String切片.md",
+    "工具/InputSystem.md",
+    "工具/GMcmd.md",
+    "工具/Cinemachine.md",
+    "工具/A星寻路算法.md",
+    "工具/点击Click 拖拽Drag Point.md",
+    "Unity知识/链锁绳索弹簧.md",
+    "Unity知识/Canva中的各形式坐标.md",
+    "Unity知识/Recttransform.md",
+    "工具/Unity知识.md",
+    "Unity知识",
+    "轮子/Base与Tool.md",
     "轮子/Click_Drag  逻辑解耦.md",
+    "设计模式/命令模式.md",
+    "设计模式/观察者模式.md",
+    "设计模式/工厂策略模式.md",
+    "模板/模板.md",
     "轮子/FloatNumber.md",
     "轮子/CinemachineManager与SceneTool.md",
     "附件/Exported image 20251227223906-1.png",
@@ -209,23 +244,6 @@
     "算法/四叉树.md",
     "算法/行为树BehaviourTree.md",
     "算法/Boids算法.md",
-    "算法/有限状态机FSM.md",
-    "C#/线程.md",
-    "轮子/Base与Tool.md",
-    "轮子/Static引用于【唯一且限制】的值时.md",
-    "轮子/ReflectTool.md",
-    "轮子/Pointer Area.md",
-    "工具/Unity语法糖.md",
-    "工具/String切片.md",
-    "工具/Recttransform.md",
-    "工具/InputSystem.md",
-    "工具/GMcmd.md",
-    "工具/Cinemachine.md",
-    "工具/Canva中的各形式坐标.md",
-    "工具/A星寻路算法.md",
-    "工具/点击Click 拖拽Drag Point.md",
-    "工具/链锁绳索弹簧.md",
-    "轮子/TextMesh修改渲染层级.md",
     "未命名.base",
     "附件/Exported image 20251227224723-1.png",
     "附件/Exported image 20251227224721-0.png",
@@ -239,9 +257,6 @@
     "C#/C++与Csharp区别",
     "OneNote/1/Csharp",
     "OneNote/1",
-    "OneNote",
-    "Unity",
-    "C#",
-    "设计模式"
+    "OneNote"
   ]
 }
