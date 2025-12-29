@@ -1,7 +1,6 @@
 ---
 tags:
   - 对象池
-  - 可扩展
   - 优化
 aliases:
   - GameObjectPool

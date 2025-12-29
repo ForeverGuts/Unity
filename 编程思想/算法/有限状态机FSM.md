@@ -1,7 +1,6 @@
 ---
 tags:
   - 状态机
-  - 可扩展
 aliases:
   - FSM
 time: 2025-12-25

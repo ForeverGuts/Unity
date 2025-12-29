@@ -1,7 +1,6 @@
 ---
 tags:
   - Unity
-  - 可扩展
   - 设计模式
 aliases:
 time: 2025-12-29

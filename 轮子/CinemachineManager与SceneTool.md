@@ -1,7 +1,6 @@
 ---
 tags:
   - 轮子
-  - 可扩展
   - Camera
   - Scene
 aliases:
