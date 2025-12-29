@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程思想/设计框架/工厂策略模式.md",
+                "file": "Unity知识/UnityContainer(下).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工厂策略模式"
+              "title": "UnityContainer(下)"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "UnityContainer(下)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,28 +225,33 @@
   },
   "active": "3761f13434d97af9",
   "lastOpenFiles": [
-    "Unity知识/assets/UnityContainer(下)/file-20251229215224647.png",
     "Unity知识/UnityContainer(上).md",
-    "Unity知识/UnityContainer(下).md",
-    "Unity知识/assets/UnityContainer(上)/file-20251229215158630.png",
-    "Unity知识/assets/UnityContainer(下)/file-20251229215150574.png",
-    "Unity知识/assets/UnityContainer(下)/file-20251229215144343.png",
-    "Unity知识/assets/UnityContainer(下)/file-20251229215143342.png",
-    "Unity知识/assets/UnityContainer(下)/file-20251229215136249.png",
-    "Unity知识/assets/UnityContainer(下)/file-20251229215121991.png",
-    "Unity知识/assets/UnityContainer(下)/file-20251229215038415.png",
-    "Unity知识/assets/UnityContainer(下)",
     "编程思想/设计框架/反转控制.md",
+    "编程思想/设计框架/assets/反转控制/file-20251229221243237.png",
+    "编程思想/设计框架/assets/反转控制/file-20251229221236292.png",
+    "编程思想/设计框架/assets/反转控制/file-20251229221227449.png",
+    "编程思想/设计框架/assets/反转控制/file-20251229221221067.png",
+    "编程思想/设计框架/assets/反转控制/file-20251229221211002.png",
+    "编程思想/设计框架/assets/反转控制/file-20251229221201791.png",
+    "编程思想/设计框架/assets/反转控制/file-20251229221153995.png",
+    "编程思想/设计框架/装饰模式.md",
+    "编程思想/设计框架/依赖注入.md",
+    "编程思想/设计框架/享元模式.md",
+    "编程思想/设计框架/命令模式.md",
+    "编程思想/设计框架/接口_组合模式.md",
+    "编程思想/设计框架/观察者模式.md",
+    "编程思想/设计框架/工厂策略模式.md",
+    "编程思想/设计框架/assets/反转控制/file-20251229221111335.png",
+    "编程思想/设计框架/assets/反转控制",
+    "编程思想/设计框架/assets",
+    "Unity知识/UnityContainer(下).md",
+    "Unity知识/assets/UnityContainer(下)/file-20251229220510666.png",
+    "Unity知识/assets/UnityContainer(下)/file-20251229220403224.png",
+    "Unity知识/assets/UnityContainer(下)",
     "Unity知识/Unity语法糖.md",
     "Unity知识/assets/UnityContainer(上)",
-    "编程思想/设计框架/工厂策略模式.md",
-    "编程思想/设计框架/装饰模式.md",
     "Unity知识/未命名.md",
-    "编程思想/设计框架/依赖注入.md",
     "Unity知识/Texture_Sprite_Image.md",
-    "Unity知识/assets/UnityContainer(上)/file-20251229214835969.png",
-    "Unity知识/assets/UnityContainer(上)/file-20251229214835970.png",
-    "Unity知识/assets/UnityContainer(上)/file-20251229214835970 1.png",
     "编程思想/C#/线程.md",
     "编程思想/C#/继承与多态.md",
     "编程思想/C#/硬拷贝.md",
@@ -263,14 +267,8 @@
     "编程思想/设计模式/assets/UnityContainer",
     "编程思想/设计模式/assets/IUnityContainer",
     "编程思想/设计模式/assets",
-    "编程思想/设计框架/享元模式.md",
     "编程思想",
     "Unity知识/assets/Texture_Sprite_Image",
-    "Unity知识/assets",
-    "工具/String切片.md",
-    "工具/InputSystem.md",
-    "工具/GMcmd.md",
-    "工具/Cinemachine.md",
-    "Unity知识"
+    "工具/String切片.md"
   ]
 }
