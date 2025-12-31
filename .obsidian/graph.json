@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "存储",
-  "showTags": false,
-  "showAttachments": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -10,13 +10,13 @@
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.10176715176715,
+  "nodeSizeMultiplier": 2.73336798336798,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
   "centerStrength": 0.508316008316008,
   "repelStrength": 9.66735966735967,
   "linkStrength": 1,
   "linkDistance": 275,
-  "scale": 0.7132754626224318,
-  "close": false
+  "scale": 0.9999999999999741,
+  "close": true
 }
