@@ -4,123 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "95c2397b15628a81",
+        "id": "e4a776a223969369",
         "type": "tabs",
         "children": [
           {
-            "id": "5c801f21d6849705",
+            "id": "1f3fa6855b584885",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据存储方案/存储方案建议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "存储方案建议"
-            }
-          },
-          {
-            "id": "ab57f4f663a5df62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程思想/设计框架/反转控制.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "反转控制"
-            }
-          },
-          {
-            "id": "0d255170cda87c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程思想/算法/对象池(Pool).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "对象池(Pool)"
-            }
-          },
-          {
-            "id": "335da240c7f27b53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程思想/设计框架/单例模式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "单例模式"
-            }
-          },
-          {
-            "id": "6d8a330fab5a490d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程思想/设计框架/策略模式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "策略模式"
-            }
-          },
-          {
-            "id": "e9af8c087633603e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程思想/C#/包裹的引用类型传递.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "包裹的引用类型传递"
-            }
-          },
-          {
-            "id": "e46ff251f16b754b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程思想/C#/事件_委托.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "事件_委托"
-            }
-          },
-          {
-            "id": "877bff7e10a119a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据存储方案/ScriptableObject.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ScriptableObject"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,8 +210,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "877bff7e10a119a5",
+  "active": "1f3fa6855b584885",
   "lastOpenFiles": [
+    "数据存储方案/存储方案建议.md",
+    "编程思想/设计框架/反转控制.md",
+    "编程思想/算法/对象池(Pool).md",
+    "编程思想/设计框架/单例模式.md",
+    "编程思想/设计框架/策略模式.md",
+    "编程思想/C#/包裹的引用类型传递.md",
+    "编程思想/C#/事件_委托.md",
+    "数据存储方案/ScriptableObject.md",
     "数据存储方案/assets/ScriptableObject/file-20251231150011620.png",
     "数据存储方案/assets/ScriptableObject/file-20251231150005935.png",
     "数据存储方案/assets/ScriptableObject/file-20251231150000034.png",
@@ -325,9 +230,7 @@
     "数据存储方案/assets/ScriptableObject/file-20251231145853075.png",
     "数据存储方案/assets/ScriptableObject/file-20251231145845883.png",
     "数据存储方案/assets/ScriptableObject/file-20251231145837885.png",
-    "数据存储方案/assets/ScriptableObject/file-20251231145822955.png",
     "数据存储方案/Json_XML.md",
-    "数据存储方案/ScriptableObject.md",
     "编程思想/设计框架/依赖注入.md",
     "Unity知识/UnityContainer(上).md",
     "Unity知识/UnityContainer(下).md",
@@ -335,22 +238,16 @@
     "Unity知识/Recttransform.md",
     "Unity知识/Canva中的各形式坐标.md",
     "Unity知识/链锁绳索弹簧.md",
-    "编程思想/C#/事件_委托.md",
     "Unity知识/未命名.md",
     "编程思想/C#/继承与多态.md",
     "数据存储方案/Excel_CSV_自定义转换工具.md",
     "编程思想/C#/未命名.md",
     "工具/点击Click 拖拽Drag Point.md",
-    "编程思想/C#/包裹的引用类型传递.md",
     "编程思想/C#/C++与Csharp区别/设计目标.md",
-    "编程思想/设计框架/单例模式.md",
     "数据存储方案/未命名.md",
     "编程思想/设计框架/服务定位器.md",
-    "编程思想/设计框架/策略模式.md",
-    "编程思想/设计框架/反转控制.md",
     "编程思想/设计框架/工厂模式.md",
     "编程思想/设计框架/接口_组合模式.md",
-    "编程思想/设计框架/观察者模式.md",
     "编程思想/设计框架/assets/状态模式",
     "工具/assets/向量场寻路",
     "工具/assets/AStar寻路",
