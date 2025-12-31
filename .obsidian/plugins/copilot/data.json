@@ -21,7 +21,7 @@
   "amazonBedrockRegion": "",
   "siliconflowApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-5|openai",
+  "defaultModelKey": "deepseek-chat|deepseek",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -187,8 +187,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -258,6 +258,20 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "glm-4.7",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://open.bigmodel.cn/api/coding/paas/v4",
+      "apiKey": "ba58fb0f81d247588dc9d38f45286d87.nq46BdeUrsueQRYp",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "glm4.7"
     }
   ],
   "activeEmbeddingModels": [
@@ -343,6 +357,19 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true
+    },
+    {
+      "name": "glm-4.7",
+      "provider": "3rd party (openai-format)",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://open.bigmodel.cn/api/coding/paas/v4",
+      "apiKey": "ba58fb0f81d247588dc9d38f45286d87.nq46BdeUrsueQRYp",
+      "isEmbeddingModel": true,
+      "capabilities": [
+        "reasoning"
+      ],
+      "displayName": "glm4.7"
     }
   ],
   "embeddingRequestsPerMin": 60,

@@ -4,6 +4,7 @@ tags:
 aliases:
 time: 2025-12-30
 ---
+**JSON是纯文本，易于版本控制、网络传输和跨平台**
 [存储方案建议](存储方案建议.md)
 ![](assets/Json_XML/file-20251230170640204.png)
 ![](assets/Json_XML/file-20251230170659419.png)

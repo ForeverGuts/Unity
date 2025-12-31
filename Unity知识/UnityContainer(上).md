@@ -5,6 +5,7 @@ tags:
 aliases:
 time: 2025-12-29
 ---
+[依赖注入](../编程思想/设计框架/依赖注入.md)
 [反转控制](../编程思想/设计框架/反转控制.md)
 [UnityContainer(下)](UnityContainer(下).md)
 # ==使用限制(后文还有注意事项)==
